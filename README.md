@@ -1,3 +1,22 @@
+# This is a single page netflix-clone web-app made using React and for the movies fetching purpose TMDB API is being used.
+
+# to start the app run the following commands:
+
+npm install ...this is to install the packages
+npm start ...this is to start the app in browser(dev version)
+npm build ...this is to get a bundle(build version) of the files made using react
+and now you are good to deploy you app:)
+
+# modules/packages used:
+
+1. axios(for fetching data from tmdb api) tmdb api key is required for the purpose
+   npm i axios
+2. react-youtube(for playing trailer)
+   npm i react-youtube
+3. movie-trailer
+   npm i movie-trailer(pre-built package used to get trailer of movie passed to it)
+   this does'nt work as expected.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
