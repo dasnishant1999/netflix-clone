@@ -1,13 +1,15 @@
-# This is a single page netflix-clone web-app made using React and for the movies fetching purpose TMDB API is being used.
+## This is a single page netflix-clone web-app made using React and for the movies fetching purpose TMDB API is being used.
 
-# to start the app run the following commands:
+## to start the app run the following commands:
 
 npm install ...this is to install the packages
+
 npm start ...this is to start the app in browser(dev version)
+
 npm build ...this is to get a bundle(build version) of the files made using react
 and now you are good to deploy you app:)
 
-# modules/packages used:
+## modules/packages used:
 
 1. axios(for fetching data from tmdb api) tmdb api key is required for the purpose
    npm i axios
