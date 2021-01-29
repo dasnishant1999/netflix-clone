@@ -51,6 +51,7 @@ function Row({ title, fetchUrl, isLarge }) {
   return (
     <div className="row">
       <h2 style={{ margin: "10px" }}>{title}</h2>
+      <h2>changes done</h2>
       <div className="row_posters">
         {movies.map((movie) => {
           return (
